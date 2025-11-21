@@ -19,9 +19,15 @@ Le rendu devant ce faire sur les deux moteurs, j'évaluerais :
 Le rendu se fera par github pour les projets et vous rendrez aussi un screenshot de chaque moteur dans ce devoir. n'oubliez pas les liens github, je veux pouvoir voir les projets ! Relisez la première ligne de ce devoir histoire de pas oublier un des trois piliers du rendu.
 
 # Notes d'intention
-J'ai voulu reproduire une nature morte pensée et mis en scène par ma soeur pour un de ses devoirs en AG à Brassart. La référence sur trouve dans le dossier "Content/NatureMorte/Pictures". De part mes recherches d'assets peu concluantes, j'ai décidé de changer la composition globale de la nature morte. Enfin, j'ai remarqué en discutant avec d'autre étudiants qu'ils faisaient un rendu avec une lumière extérieur orange du crépuscule. J'ai décidé de faire un rendu de nuit pour me démarquer.
+J'ai voulu reproduire une nature morte pensée et mis en scène par ma soeur pour un de ses devoirs en AG à Brassart. La référence sur trouve dans le dossier "Content/NatureMorte/Pictures".
+
+De part mes recherches d'assets peu concluantes, j'ai décidé de changer la composition globale de la nature morte. Enfin, j'ai remarqué en discutant avec d'autre étudiants qu'ils faisaient un rendu avec une lumière extérieur orange du crépuscule. J'ai décidé de faire un rendu de nuit pour me démarquer.
+
 Il y a 2 MasterMaterial : un pour les matières transparentes et un pour le reste des matières.
+
 Chaque asset utilisé se trouve dans leur dossier respectif. Les materials associés sont des MI d'un des 2 MasterMaterial.
+
+Je n'ai volontairement pas utilisé les roughness map sur mes MI pour que les deux rendus soient les plus proches possibles.
 
 # Lien Github Unity
 Le projet Unity associé est disponible ici : https://github.com/Badaril/GD3_LoopHeroUnity_HO-VANIlian
