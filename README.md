@@ -1,5 +1,5 @@
 # GD3_LoopHeroUnreal_HO-VANIlian
-Nature Morte – Unreal Engine 5.4.4 – Reproduction technique et artistique (Matériaux, Lumières, Post-Process)
+Nature Morte – Unreal Engine 5.4.4
 
 # Consigne
 Ce devoir à pour objectif d'évaluer votre compréhension des matières, lumières et post-process. Je vous demande de réaliser deux natures mortes, une dans chaque moteur de jeu. Elles devront contenir les éléments suivants :
