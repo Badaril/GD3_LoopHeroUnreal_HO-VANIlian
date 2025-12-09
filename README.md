@@ -31,3 +31,8 @@ Je n'ai volontairement pas utilisé les roughness map sur mes MI pour que les de
 
 # Lien Github Unity
 Le projet Unity associé est disponible ici : https://github.com/Badaril/GD3_LoopHeroUnity_HO-VANIlian
+
+# Retours Professeur
+" Bon travail, compo interessante, des matières différentes un traitement identique, c'est très bien joué. Tes pommes font très plastique quand même. Sur le coup j'ai pensé que tu avais pris deux fois le rendu unreal. Donc un grand bravo. Tu peux être fier de toi. " 
+
+Ce qui manque : plus de matériaux différents et plus de lumières
