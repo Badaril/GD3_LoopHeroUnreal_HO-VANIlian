@@ -1,4 +1,5 @@
 # GD3_LoopHeroUnreal_HO-VANIlian
+# Devoir 07/04 : Loop Hero V2
 # Consigne
 L'objectif ici est de disposer de deux jeux basés sur les loop hero déjà réalisés avec pour chacun d'entre eux un mini jeu déclenché en arrivant sur une case spécifique, ou plusieurs cases si cela correspond au jeu prévu.
 
