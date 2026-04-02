@@ -1,4 +1,29 @@
 # GD3_LoopHeroUnreal_HO-VANIlian
+# Consigne
+L'objectif ici est de disposer de deux jeux basés sur les loop hero déjà réalisés avec pour chacun d'entre eux un mini jeu déclenché en arrivant sur une case spécifique, ou plusieurs cases si cela correspond au jeu prévu.
+
+Les mini jeux seront :
+- un jeu de type cache cache avec un personnage animé qui patrouille et poursuit le joueur jusqu'à l'attraper. Son comportement pourra être plus complexe dans le cadre d'un bonus.
+- un autre mini jeu de votre choix, ou les conditions de victoire et de défaite seront clairement visibles. Un personnage animé n'est pas obligatoire.
+Les deux mini-jeux devront influencer le jeu principal, par une récupération de ressources, de points ou d'objets.
+
+Attentes de rendu pour ce devoir :
+un jeu unity contenant UN des deux mini jeux
+un jeu Unreal contenant L'AUTRE mini-jeu.
+des readme expliquant clairement le fonctionnement de vos jeux (one page doc)
+
+# Notes d'intention  
+Dans ce deuxième niveau, le joueur doit récupérer la bague du roi, volée par des monstres qui se sont réfugiés dans un labyrinthe. Un garde l'entrée et le deuxième surveille l'intérieur.  
+Les deux mini-jeux sont :  
+- un duel de cartes
+- un parcours de labyrinthe avec un garde qui patrouille dedans.
+
+Sur ce moteur de jeu, j'ai codé le parcours du labyrinthe. Il est accessible une fois que le joueur est remporté le duel de cartes contre le gardien. La case "ENTREE DU LABYRINTHE" se trouve juste après, sur un passage unique.
+
+Le joueur apparait dans un coin du labyrinthe. Son objectif est de trouver la bague, de la récupérer et de retourner au point de départ pour s'enfuir avec. S'il se fait repérer par le patrouilleur, le monstre le poursuit. S'il est assez proche, le monstre vire le joueur du labyrinthe et le joueur doit refaire un tour de plateau pour retenter sa chance.  
+
+Pour ce rendu, le labyrinthe est généré une seule fois et ne change pas entre les runs. A terme, je souhaite générer un nouveau labyrinthe à chaque fois que le joueur tombe sur la case "ENTREE DU LABYRINTHE" et que l'IA s'adapte au changement.
+
 # Devoir 12/01 : Loop Hero V1
 
 # Consigne
