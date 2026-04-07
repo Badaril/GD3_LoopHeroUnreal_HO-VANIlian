@@ -21,7 +21,7 @@ Les deux mini-jeux sont :
 
 Sur ce moteur de jeu, j'ai codé le parcours du labyrinthe. Il est accessible une fois que le joueur est remporté le duel de cartes contre le gardien. La case "ENTREE DU LABYRINTHE" se trouve juste après, sur un passage unique.
 
-Le joueur apparait dans un coin du labyrinthe. Son objectif est de trouver la bague, de la récupérer et de retourner au point de départ pour s'enfuir avec. S'il se fait repérer par le patrouilleur, le monstre le poursuit. S'il est assez proche, le monstre vire le joueur du labyrinthe et le joueur doit refaire un tour de plateau pour retenter sa chance.  
+Le joueur apparait dans un coin du labyrinthe. Son objectif est de trouver la bague, de la récupérer et de retourner au point de départ pour s'enfuir avec. S'il se fait repérer par le patrouilleur, le monstre le poursuit. S'il est assez proche, le monstre vire le joueur du labyrinthe et le joueur doit refaire un tour de plateau pour retenter sa chance. Les zones violettes à l'intérieur du labyrinthe sont des zones safes dans lesquelles l'ennemi ne peut pas accéder.  
 
 Pour ce rendu, le labyrinthe est généré une seule fois et ne change pas entre les runs. A terme, je souhaite générer un nouveau labyrinthe à chaque fois que le joueur tombe sur la case "ENTREE DU LABYRINTHE" et que l'IA s'adapte au changement.
 
